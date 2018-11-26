@@ -1,0 +1,5 @@
+echo ANSYS v13.4
+read -p "Press RETURN to start!"
+sleep 5
+echo "Error starting ANSYS. :("
+
